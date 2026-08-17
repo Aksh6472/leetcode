@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Aksh6472/leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/Aksh6472/leetcode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Aksh6472/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aksh6472/leetcode/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Aksh6472/leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
