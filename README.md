@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Aksh6472/leetcode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Aksh6472/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aksh6472/leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Aksh6472/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
